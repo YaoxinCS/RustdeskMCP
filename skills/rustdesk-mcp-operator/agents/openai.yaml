@@ -1,0 +1,4 @@
+interface:
+  display_name: "RustDesk MCP Operator"
+  short_description: "Run RustDeskMCP desktop and terminal MCP workflows."
+  default_prompt: "Use $rustdesk-mcp-operator to drive the local RustDeskMCP server in this repository."
